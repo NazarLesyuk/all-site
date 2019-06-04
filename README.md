@@ -7,6 +7,10 @@
     - http://course.innasemyriaga.com/sozday-stil-mk/thanks.html
 -
 
-# wp:
+# Wordpress based:
 - http://klimstepan.com/
 - http://derzhanovska.com/
+
+
+
+![Icon](/icon.gif "Gardens")
