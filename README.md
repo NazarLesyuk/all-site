@@ -13,5 +13,7 @@
 
 
 
-![Icon](/icon.gif "Icon 1")
+
+
+
 ![Icon](/developer-dribbble.gif "icon 2")
