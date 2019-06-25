@@ -1,4 +1,4 @@
-# List of websites developed by me
+# Table of websites developed by me
 
 | Project | Stack | Descriptions | git repo |
 | ---     | ---   | ---          | ---  | 
