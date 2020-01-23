@@ -1,4 +1,4 @@
-# Table of websites developed by me
+# Table contains websites developed by me
 
 | Project                                                                           | Stack                                                | Descriptions                              | git repo |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------- | -------- |
